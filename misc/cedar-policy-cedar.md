@@ -1,0 +1,80 @@
+# cedar-policy/cedar
+
+[![Stars](https://img.shields.io/github/stars/cedar-policy/cedar?style=flat-square&color=yellow)](https://github.com/cedar-policy/cedar/stargazers) [![Forks](https://img.shields.io/github/forks/cedar-policy/cedar?style=flat-square&color=blue)](https://github.com/cedar-policy/cedar/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+
+> Implementation of the Cedar Policy Language
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1.5k |
+| 🍴 **Forks** | 144 |
+| 💻 **Language** | Rust |
+| 📈 **Score** | 43/100 |
+| 🗓️ **Last push** | 2026-09-05 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+cedar-policy/cedar: cedar-policy/cedar may be useful when its README and activity match a concrete workflow.. Use it for Misc. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+### Русский
+
+cedar-policy/cedar: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+
+### 中文
+
+cedar-policy/cedar：cedar-policy/cedar may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** cedar-policy/cedar may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 1460 GitHub stars
+- 144 forks
+- updated 2026-05-07
+- primary language: Rust
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 54/100 |
+| stars | 67/100 |
+| topics | 0/100 |
+| outlook | 41/100 |
+| quality | 49/100 |
+| recency | 20/100 |
+| adoption | 64/100 |
+| production | 44/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/cedar-policy/cedar) · [← Back to Misc](./README.md)</sub>

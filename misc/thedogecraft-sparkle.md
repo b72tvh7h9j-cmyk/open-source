@@ -1,0 +1,83 @@
+# thedogecraft/sparkle
+
+[![Stars](https://img.shields.io/github/stars/thedogecraft/sparkle?style=flat-square&color=yellow)](https://github.com/thedogecraft/sparkle/stargazers) [![Forks](https://img.shields.io/github/forks/thedogecraft/sparkle?style=flat-square&color=blue)](https://github.com/thedogecraft/sparkle/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+
+> A Windows app to debloat and optimize your PC
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1.4k |
+| 🍴 **Forks** | 52 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 55/100 |
+| 🗓️ **Last push** | 2026-09-05 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`debloater` `opimization` `registry-tweaks` `windows` `windows-10-debloat` `windows-10-optimization` `windows-cleaner` `windows-debloat` `windows-optimization` `windows-optimization-tool` `windows-optimizer` `windows-tweaks`
+
+## 🎯 Categories
+
+Misc
+
+## 📝 Summary
+
+### English
+
+The sparkle project is an open-source Windows application designed to help users debloat and optimize their PC for improved performance. By removing unnecessary files and optimizing system settings, sparkle aims to streamline your computer's operations and enhance its overall functionality. This free tool is a valuable resource for anyone looking to breathe new life into their Windows device.
+
+### Русский
+
+Резюме:
+
+"Sparkle - это открытый проект Windows-приложения, предназначенного для облегчения и оптимизации вашего компьютера. Программа помогает удалить ненужные файлы и компоненты, что может существенно улучшить производительность вашего ПК. С помощью Sparkle вы сможете освежить свой компьютер и сделать его более быстрым и эффективным."
+
+### 中文
+
+thedogecraft/sparkle：thedogecraft/sparkle may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** thedogecraft/sparkle may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 1396 GitHub stars
+- 52 forks
+- updated 2026-05-07
+- primary language: TypeScript
+- 12 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 43/100 |
+| stars | 67/100 |
+| topics | 100/100 |
+| outlook | 54/100 |
+| quality | 62/100 |
+| recency | 20/100 |
+| adoption | 60/100 |
+| production | 51/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 0/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/thedogecraft/sparkle) · [← Back to Misc](./README.md)</sub>

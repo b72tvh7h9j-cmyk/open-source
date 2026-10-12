@@ -1,0 +1,83 @@
+# OffchainLabs/prysm
+
+[![Stars](https://img.shields.io/github/stars/OffchainLabs/prysm?style=flat-square&color=yellow)](https://github.com/OffchainLabs/prysm/stargazers) [![Forks](https://img.shields.io/github/forks/OffchainLabs/prysm?style=flat-square&color=blue)](https://github.com/OffchainLabs/prysm/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+
+> Go implementation of Ethereum proof of stake
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3.8k |
+| 🍴 **Forks** | 1.3k |
+| 💻 **Language** | Go |
+| 📈 **Score** | 50/100 |
+| 🗓️ **Last push** | 2026-09-05 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`ethereum`
+
+## 🎯 Categories
+
+Crypto
+
+## 📝 Summary
+
+### English
+
+OffchainLabs/prysm: OffchainLabs/prysm helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+### Русский
+
+OffchainLabs/prysm: open-source проект в категориях Crypto. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+
+### 中文
+
+OffchainLabs/prysm：OffchainLabs/prysm helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** OffchainLabs/prysm helps prototype or inspect blockchain workflows with open implementation details.
+
+**Best use cases**
+
+- build Web3 workflows
+- inspect blockchain integrations
+- prototype wallet or DeFi features
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 3753 GitHub stars
+- 1303 forks
+- updated 2026-05-07
+- primary language: Go
+- 1 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 78/100 |
+| stars | 76/100 |
+| topics | 13/100 |
+| outlook | 46/100 |
+| quality | 56/100 |
+| recency | 20/100 |
+| adoption | 77/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/OffchainLabs/prysm) · [← Back to Crypto](./README.md)</sub>

@@ -1,0 +1,83 @@
+# kaushikb11/awesome-llm-agents
+
+[![Stars](https://img.shields.io/github/stars/kaushikb11/awesome-llm-agents?style=flat-square&color=yellow)](https://github.com/kaushikb11/awesome-llm-agents/stargazers) [![Forks](https://img.shields.io/github/forks/kaushikb11/awesome-llm-agents?style=flat-square&color=blue)](https://github.com/kaushikb11/awesome-llm-agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+
+> A curated list of awesome LLM agents frameworks.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1.5k |
+| 🍴 **Forks** | 272 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`agents` `langchain` `llm`
+
+## 🎯 Categories
+
+Orchestration · AI/ML
+
+## 📝 Summary
+
+### English
+
+A curated repository of top-notch frameworks for building and orchestrating large language model (LLM) agents. It gathers and categorizes the most useful tools, libraries, and resources for developers looking to create, manage, and scale LLM‑driven autonomous agents.
+
+### Русский
+
+**awesome-llm-agents** – это открытый репозиторий, собирающий и систематизирующий лучшие фреймворки для создания и оркестрации LLM‑агентов. В списке представлены проверенные инструменты из категорий оркестрации и машинного обучения, что упрощает подбор подходящего решения для разработки интеллектуальных систем. Проект поддерживает сообщество, позволяя легко добавлять новые библиотеки и делиться опытом.
+
+### 中文
+
+kaushikb11/awesome-llm-agents：kaushikb11/awesome-llm-agents helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** kaushikb11/awesome-llm-agents helps turn isolated prompts and tools into repeatable agent workflows.
+
+**Best use cases**
+
+- coordinate multi-agent workflows
+- add tool-use pipelines
+- standardize agent memory
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 1470 GitHub stars
+- 272 forks
+- updated 2026-05-10
+- primary language: Python
+- 3 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 61/100 |
+| stars | 67/100 |
+| topics | 38/100 |
+| outlook | 52/100 |
+| quality | 55/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 48/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-10 · [View on GitHub](https://github.com/kaushikb11/awesome-llm-agents) · [← Back to Orchestration](./README.md)</sub>

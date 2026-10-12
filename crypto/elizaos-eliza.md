@@ -1,0 +1,83 @@
+# elizaOS/eliza
+
+[![Stars](https://img.shields.io/github/stars/elizaOS/eliza?style=flat-square&color=yellow)](https://github.com/elizaOS/eliza/stargazers) [![Forks](https://img.shields.io/github/forks/elizaOS/eliza?style=flat-square&color=blue)](https://github.com/elizaOS/eliza/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+
+> Autonomous agents for everyone
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 18.3k |
+| 🍴 **Forks** | 5.5k |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 74/100 |
+| 🗓️ **Last push** | 2026-09-05 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`agent` `agentic` `ai` `autonomous` `chatbot` `crypto` `discord` `eliza` `elizaos` `framework` `plugins` `rag`
+
+## 🎯 Categories
+
+Crypto · Knowledge/RAG · Automation · AI/ML · Communication
+
+## 📝 Summary
+
+### English
+
+elizaOS/eliza: elizaOS/eliza helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+elizaOS/eliza: open-source проект в категориях Crypto, Knowledge/RAG, Automation, AI/ML. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+elizaOS/eliza：elizaOS/eliza helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** elizaOS/eliza helps prototype or inspect blockchain workflows with open implementation details.
+
+**Best use cases**
+
+- build Web3 workflows
+- inspect blockchain integrations
+- prototype wallet or DeFi features
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 18320 GitHub stars
+- 5517 forks
+- updated 2026-05-07
+- primary language: TypeScript
+- 15 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 94/100 |
+| stars | 91/100 |
+| topics | 100/100 |
+| outlook | 68/100 |
+| quality | 76/100 |
+| recency | 20/100 |
+| adoption | 92/100 |
+| production | 58/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 500/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/elizaOS/eliza) · [← Back to Crypto](./README.md)</sub>

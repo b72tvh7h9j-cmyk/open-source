@@ -1,0 +1,83 @@
+# Avaiga/taipy
+
+[![Stars](https://img.shields.io/github/stars/Avaiga/taipy?style=flat-square&color=yellow)](https://github.com/Avaiga/taipy/stargazers) [![Forks](https://img.shields.io/github/forks/Avaiga/taipy?style=flat-square&color=blue)](https://github.com/Avaiga/taipy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+
+> Turns Data and AI algorithms into production-ready web applications in no time.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 19.2k |
+| 🍴 **Forks** | 2k |
+| 💻 **Language** | Python |
+| 📈 **Score** | 76/100 |
+| 🗓️ **Last push** | 2026-09-05 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`automation` `data-engineering` `data-integration` `data-ops` `data-visualization` `datascience` `developer-tools` `hacktoberfest` `hacktoberfest2023` `job-scheduler` `mlops` `orchestration`
+
+## 🎯 Categories
+
+Orchestration · Automation · DevTools · Data
+
+## 📝 Summary
+
+### English
+
+Avaiga/taipy: Avaiga/taipy helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+Avaiga/taipy: open-source проект в категориях Orchestration, Automation, DevTools, Data. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+Avaiga/taipy：Avaiga/taipy helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** Avaiga/taipy helps turn isolated prompts and tools into repeatable agent workflows.
+
+**Best use cases**
+
+- coordinate multi-agent workflows
+- add tool-use pipelines
+- standardize agent memory
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 19174 GitHub stars
+- 1971 forks
+- updated 2026-05-07
+- primary language: Python
+- 20 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 82/100 |
+| stars | 91/100 |
+| topics | 100/100 |
+| outlook | 69/100 |
+| quality | 75/100 |
+| recency | 20/100 |
+| adoption | 89/100 |
+| production | 58/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/Avaiga/taipy) · [← Back to Orchestration](./README.md)</sub>

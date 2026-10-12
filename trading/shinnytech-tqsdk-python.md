@@ -1,0 +1,83 @@
+# shinnytech/tqsdk-python
+
+[![Stars](https://img.shields.io/github/stars/shinnytech/tqsdk-python?style=flat-square&color=yellow)](https://github.com/shinnytech/tqsdk-python/stargazers) [![Forks](https://img.shields.io/github/forks/shinnytech/tqsdk-python?style=flat-square&color=blue)](https://github.com/shinnytech/tqsdk-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+
+> 天勤量化开发包, 期货量化, 实时行情/历史数据/实盘交易
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 4.7k |
+| 🍴 **Forks** | 755 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-09-05 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`diff` `futures` `program-trading` `python` `quant` `tqsdk`
+
+## 🎯 Categories
+
+Trading
+
+## 📝 Summary
+
+### English
+
+shinnytech/tqsdk-python: shinnytech/tqsdk-python helps research and automate market workflows.. Use it for research trading systems; backtest strategies. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+shinnytech/tqsdk-python: open-source проект в категориях Trading. Практическое применение: research trading systems; backtest strategies. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+shinnytech/tqsdk-python：shinnytech/tqsdk-python helps research and automate market workflows.。适合用于research trading systems、backtest strategies。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** shinnytech/tqsdk-python helps research and automate market workflows.
+
+**Best use cases**
+
+- research trading systems
+- backtest strategies
+- monitor market workflows
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 4679 GitHub stars
+- 755 forks
+- updated 2026-05-07
+- primary language: Python
+- 6 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 72/100 |
+| stars | 78/100 |
+| topics | 75/100 |
+| outlook | 55/100 |
+| quality | 66/100 |
+| recency | 20/100 |
+| adoption | 76/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/shinnytech/tqsdk-python) · [← Back to Trading](./README.md)</sub>

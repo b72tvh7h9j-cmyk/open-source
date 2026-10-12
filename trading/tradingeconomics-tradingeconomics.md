@@ -1,0 +1,82 @@
+# tradingeconomics/tradingeconomics
+
+[![Stars](https://img.shields.io/github/stars/tradingeconomics/tradingeconomics?style=flat-square&color=yellow)](https://github.com/tradingeconomics/tradingeconomics/stargazers) [![Forks](https://img.shields.io/github/forks/tradingeconomics/tradingeconomics?style=flat-square&color=blue)](https://github.com/tradingeconomics/tradingeconomics/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+
+> TRADING ECONOMICS - API Code Examples
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 951 |
+| 🍴 **Forks** | 715 |
+| 💻 **Language** | JavaScript |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Trading
+
+## 📝 Summary
+
+### English
+
+tradingeconomics/tradingeconomics: tradingeconomics/tradingeconomics helps research and automate market workflows.. Use it for research trading systems; backtest strategies. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+### Русский
+
+tradingeconomics/tradingeconomics: open-source проект в категориях Trading. Практическое применение: research trading systems; backtest strategies. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+
+### 中文
+
+tradingeconomics/tradingeconomics：tradingeconomics/tradingeconomics helps research and automate market workflows.。适合用于research trading systems、backtest strategies。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** tradingeconomics/tradingeconomics helps research and automate market workflows.
+
+**Best use cases**
+
+- research trading systems
+- backtest strategies
+- monitor market workflows
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 951 GitHub stars
+- 715 forks
+- updated 2026-05-07
+- primary language: JavaScript
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 71/100 |
+| stars | 63/100 |
+| topics | 0/100 |
+| outlook | 45/100 |
+| quality | 50/100 |
+| recency | 20/100 |
+| adoption | 66/100 |
+| production | 46/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/tradingeconomics/tradingeconomics) · [← Back to Trading](./README.md)</sub>

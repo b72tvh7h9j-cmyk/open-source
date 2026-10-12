@@ -1,0 +1,83 @@
+# dcouple/Pane
+
+[![Stars](https://img.shields.io/github/stars/dcouple/Pane?style=flat-square&color=yellow)](https://github.com/dcouple/Pane/stargazers) [![Forks](https://img.shields.io/github/forks/dcouple/Pane?style=flat-square&color=blue)](https://github.com/dcouple/Pane/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+
+> Pane is a Terminal-first AI agent manager. The same way Superhuman is an email client (not an email provider), Pane is an agent client (not an agent provider). You bring the agents. We make them fly.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 76 |
+| 🍴 **Forks** | 37 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 58/100 |
+| 🗓️ **Last push** | 2026-09-05 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`agent-manager` `agentic-ai` `agents` `ai` `aider` `claude-code` `cli` `codex` `coding-agents` `cursor-ai` `desktop` `developer`
+
+## 🎯 Categories
+
+Orchestration · AI/ML · Communication · DevTools
+
+## 📝 Summary
+
+### English
+
+Pane is a terminal‑first client for managing AI agents, letting users orchestrate and interact with any agents they choose without providing the agents themselves. It offers a lightweight, developer‑focused interface that streamlines agent deployment, monitoring, and communication directly from the command line. Ideal for AI/ML workflows and DevOps tooling, Pane focuses on orchestration rather than agent creation.
+
+### Русский
+
+**Pane** – это терминальный клиент для управления AI‑агентами, ориентированный на разработчиков. Он предоставляет инструменты оркестрации и интеграции, позволяя пользователям подключать свои собственные модели и быстро переключаться между ними, как Superhuman делает с электронной почтой. Проект открытого кода подходит для построения гибких DevTools в области AI/ML.
+
+### 中文
+
+dcouple/Pane：dcouple/Pane helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** dcouple/Pane helps turn isolated prompts and tools into repeatable agent workflows.
+
+**Best use cases**
+
+- coordinate multi-agent workflows
+- add tool-use pipelines
+- standardize agent memory
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 76 GitHub stars
+- 37 forks
+- updated 2026-05-08
+- primary language: TypeScript
+- 20 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 39/100 |
+| stars | 40/100 |
+| topics | 100/100 |
+| outlook | 52/100 |
+| quality | 53/100 |
+| recency | 20/100 |
+| adoption | 40/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/dcouple/Pane) · [← Back to Orchestration](./README.md)</sub>

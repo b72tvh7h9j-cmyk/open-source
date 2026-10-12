@@ -1,0 +1,82 @@
+# NeverSight/learn-skills.dev
+
+[![Stars](https://img.shields.io/github/stars/NeverSight/learn-skills.dev?style=flat-square&color=yellow)](https://github.com/NeverSight/learn-skills.dev/stargazers) [![Forks](https://img.shields.io/github/forks/NeverSight/learn-skills.dev?style=flat-square&color=blue)](https://github.com/NeverSight/learn-skills.dev/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+
+> Curated high-quality AI Agent Skills. Search, install, copy and share. Works with Claude Code, Cursor, OpenClaw, and other AI coding tools.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 129 |
+| 🍴 **Forks** | 27 |
+| 💻 **Language** | Unknown |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-09-05 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`learn-skills` `skills`
+
+## 🎯 Categories
+
+Orchestration · AI/ML · Education
+
+## 📝 Summary
+
+### English
+
+NeverSight/learn‑skills.dev is an open‑source repository that curates a library of high‑quality AI agent “skills” for rapid reuse across coding assistants. It provides searchable, installable, copy‑and‑shareable skill definitions that integrate seamlessly with Claude Code, Cursor, OpenClaw and other AI‑driven development tools, streamlining orchestration of complex workflows.
+
+### Русский
+
+NeverSight/learn-skills.dev — это открытая платформа, собирающая проверенные навыки AI‑агентов для программирования. С её помощью можно быстро искать, устанавливать, копировать и делиться готовыми навыками, которые работают с Claude Code, Cursor, OpenClaw и другими инструментами AI‑кодинга. Проект относится к категориям оркестрации и машинного обучения.
+
+### 中文
+
+NeverSight/learn-skills.dev：NeverSight/learn-skills.dev helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** NeverSight/learn-skills.dev helps turn isolated prompts and tools into repeatable agent workflows.
+
+**Best use cases**
+
+- coordinate multi-agent workflows
+- add tool-use pipelines
+- standardize agent memory
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 129 GitHub stars
+- 27 forks
+- updated 2026-05-09
+- 2 topics
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 36/100 |
+| stars | 45/100 |
+| topics | 25/100 |
+| outlook | 45/100 |
+| quality | 43/100 |
+| recency | 20/100 |
+| adoption | 43/100 |
+| production | 42/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/NeverSight/learn-skills.dev) · [← Back to Orchestration](./README.md)</sub>

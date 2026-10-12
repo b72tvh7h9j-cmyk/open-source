@@ -1,0 +1,83 @@
+# ekristen/cast
+
+[![Stars](https://img.shields.io/github/stars/ekristen/cast?style=flat-square&color=yellow)](https://github.com/ekristen/cast/stargazers) [![Forks](https://img.shields.io/github/forks/ekristen/cast?style=flat-square&color=blue)](https://github.com/ekristen/cast/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+
+> Cast is an installer for any compatible Saltstack based distribution like SIFT or REMnux
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 138 |
+| 🍴 **Forks** | 20 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 52/100 |
+| 🗓️ **Last push** | 2026-09-05 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`cli` `distro` `golang` `linux` `saltstack`
+
+## 🎯 Categories
+
+DevTools
+
+## 📝 Summary
+
+### English
+
+Cast is an open‑source installer that automates the deployment of SaltStack‑based security distributions such as SIFT and REMnux. By detecting compatible environments and handling package selection, configuration, and setup, it streamlines the process of getting a fully functional analysis platform up and running. The tool is packaged as a developer‑focused utility for easy extension and integration into custom SaltStack workflows.
+
+### Русский
+
+**Cast** – это открытый установщик, позволяющий быстро развернуть любые совместимые с SaltStack дистрибутивы (например, SIFT, REMnux) и автоматизировать их настройку. Проект предоставляет набор готовых Salt‑модулей и ролей, упрощая процесс создания специализированных аналитических сред для цифровой криминалистики и анализа вредоносного ПО. Подходит для разработчиков и аналитиков, которым нужен быстрый и надёжный способ подготовки рабочей инфраструктуры.
+
+### 中文
+
+ekristen/cast：ekristen/cast helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** ekristen/cast helps engineers save time in daily development and review loops.
+
+**Best use cases**
+
+- speed up developer workflows
+- automate local engineering tasks
+- improve CI feedback
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 138 GitHub stars
+- 20 forks
+- updated 2026-05-09
+- primary language: Go
+- 5 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 33/100 |
+| stars | 46/100 |
+| topics | 63/100 |
+| outlook | 45/100 |
+| quality | 48/100 |
+| recency | 20/100 |
+| adoption | 42/100 |
+| production | 48/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/ekristen/cast) · [← Back to DevTools](./README.md)</sub>

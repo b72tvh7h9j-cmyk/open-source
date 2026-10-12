@@ -1,0 +1,82 @@
+# itsyebekhe/PSG
+
+[![Stars](https://img.shields.io/github/stars/itsyebekhe/PSG?style=flat-square&color=yellow)](https://github.com/itsyebekhe/PSG/stargazers) [![Forks](https://img.shields.io/github/forks/itsyebekhe/PSG?style=flat-square&color=blue)](https://github.com/itsyebekhe/PSG/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+
+> Proxy Subscription Generator
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 341 |
+| 🍴 **Forks** | 77 |
+| 💻 **Language** | HTML |
+| 📈 **Score** | 40/100 |
+| 🗓️ **Last push** | 2026-09-05 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Payments · Networking
+
+## 📝 Summary
+
+### English
+
+Itsyebekhe/PSG is an open‑source tool that automates the creation of proxy subscription files, streamlining the process of generating and managing proxy configurations for various services. Although it falls under the Payments and AI/ML categories, the core functionality focuses on efficiently producing subscription links that can be used in proxy clients, reducing manual effort and errors.
+
+### Русский
+
+itsyebekhe/PSG — это открытый проект, генерирующий подписки для прокси‑серверов, позволяя быстро создавать и управлять конфигурациями доступа в масштабируемой инфраструктуре. Инструмент сочетает простую настройку с возможностями автоматизации, поддерживая интеграцию в системы оплаты и применения искусственного интеллекта для оптимизации распределения ресурсов.
+
+### 中文
+
+itsyebekhe/PSG：itsyebekhe/PSG helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** itsyebekhe/PSG helps integrate monetization, billing, or PSP flows faster.
+
+**Best use cases**
+
+- integrate billing or checkout
+- evaluate PSP flows
+- automate payment operations
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 341 GitHub stars
+- 77 forks
+- updated 2026-05-09
+- primary language: HTML
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 47/100 |
+| stars | 54/100 |
+| topics | 0/100 |
+| outlook | 38/100 |
+| quality | 43/100 |
+| recency | 20/100 |
+| adoption | 52/100 |
+| production | 42/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 200/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/itsyebekhe/PSG) · [← Back to Payments](./README.md)</sub>

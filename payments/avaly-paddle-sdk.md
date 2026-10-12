@@ -1,0 +1,83 @@
+# avaly/paddle-sdk
+
+[![Stars](https://img.shields.io/github/stars/avaly/paddle-sdk?style=flat-square&color=yellow)](https://github.com/avaly/paddle-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/avaly/paddle-sdk?style=flat-square&color=blue)](https://github.com/avaly/paddle-sdk/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+
+> Paddle.com Node.js SDK
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 100 |
+| 🍴 **Forks** | 32 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-09-05 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`nodejs` `paddle` `payments` `typescript`
+
+## 🎯 Categories
+
+Payments · Backend · Libraries & SDKs
+
+## 📝 Summary
+
+### English
+
+Avaly’s **paddle-sdk** is an open‑source Node.js library that provides a convenient wrapper around the Paddle.com payment platform API. It simplifies common payment tasks—such as creating checkout links, managing subscriptions, handling webhooks, and processing refunds—by exposing clear, promise‑based methods and type definitions. Designed for developers building SaaS or e‑commerce applications, the SDK streamlines integration with Paddle’s billing and licensing services.
+
+### Русский
+
+**Avaly/paddle-sdk** — это открытый Node.js SDK для интеграции сервиса платежей Paddle.com в серверные и клиентские приложения. Библиотека предоставляет удобные методы для создания и управления подписками, одноразовыми покупками, вебхуками и возвратами, а также абстрагирует детали API Paddle, позволяя быстро реализовать безопасные платежные решения. Подходит для разработки любых проектов, где требуется гибкая и надежная система онлайн‑оплаты.
+
+### 中文
+
+avaly/paddle-sdk：avaly/paddle-sdk helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** avaly/paddle-sdk helps integrate monetization, billing, or PSP flows faster.
+
+**Best use cases**
+
+- integrate billing or checkout
+- evaluate PSP flows
+- automate payment operations
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 100 GitHub stars
+- 32 forks
+- updated 2026-05-08
+- primary language: TypeScript
+- 4 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 38/100 |
+| stars | 43/100 |
+| topics | 50/100 |
+| outlook | 44/100 |
+| quality | 46/100 |
+| recency | 20/100 |
+| adoption | 41/100 |
+| production | 47/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/avaly/paddle-sdk) · [← Back to Payments](./README.md)</sub>

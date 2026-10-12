@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "total": 39752,
+  "shards": [
+    {
+      "path": "data/repos-0001.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0002.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0003.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0004.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0005.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0006.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0007.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0008.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0009.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0010.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0011.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0012.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0013.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0014.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0015.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0016.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0017.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0018.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0019.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0020.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0021.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0022.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0023.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0024.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0025.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0026.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0027.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0028.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0029.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0030.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0031.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0032.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0033.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0034.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0035.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0036.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0037.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0038.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0039.json",
+      "count": 1000
+    },
+    {
+      "path": "data/repos-0040.json",
+      "count": 752
+    }
+  ]
+}

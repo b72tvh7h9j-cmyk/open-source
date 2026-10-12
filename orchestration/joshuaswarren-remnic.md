@@ -1,0 +1,83 @@
+# joshuaswarren/remnic
+
+[![Stars](https://img.shields.io/github/stars/joshuaswarren/remnic?style=flat-square&color=yellow)](https://github.com/joshuaswarren/remnic/stargazers) [![Forks](https://img.shields.io/github/forks/joshuaswarren/remnic?style=flat-square&color=blue)](https://github.com/joshuaswarren/remnic/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+
+> Local-first memory plugin for AI agents including OpenClaw, Hermes, Codex, Claude Code and more. LLM-powered extraction, plain markdown storage, hybrid search via QMD. Gives agents persistent long-term memory across conversations.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 73 |
+| 🍴 **Forks** | 11 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 57/100 |
+| 🗓️ **Last push** | 2026-09-05 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`agent-memory` `ai-agent` `ai-memory` `conversational-ai` `engram` `hermes-plugin` `knowledge-graph` `llm` `local-first` `long-term-memory` `markdown` `memory-plugin`
+
+## 🎯 Categories
+
+Orchestration · Knowledge/RAG · AI/ML · Documents
+
+## 📝 Summary
+
+### English
+
+A local‑first memory plugin that equips AI agents—such as OpenClaw, Hermes, Codex, Claude Code, and others—with persistent, long‑term recall across conversations. It uses LLM‑driven extraction to convert interactions into plain‑markdown notes, stores them locally, and provides hybrid search through QMD for fast, context‑aware retrieval. The project enables seamless orchestration of memory for agents without relying on external services.
+
+### Русский
+
+**Joshuaswarren/remnic** — это open‑source плагин «local‑first» памяти для AI‑агентов (OpenClaw, Hermes, Codex, Claude Code и др.), который обеспечивает постоянное долговременное хранение контекста между диалогами. Плагин использует LLM‑базированное извлечение информации, сохраняет её в простом markdown и предоставляет гибридный поиск через QMD, позволяя агентам быстро находить и использовать релевантные данные. Категории: Orchestration, AI/ML.
+
+### 中文
+
+joshuaswarren/remnic：joshuaswarren/remnic helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** joshuaswarren/remnic helps turn isolated prompts and tools into repeatable agent workflows.
+
+**Best use cases**
+
+- coordinate multi-agent workflows
+- add tool-use pipelines
+- standardize agent memory
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- 73 GitHub stars
+- 11 forks
+- updated 2026-05-08
+- primary language: TypeScript
+- 16 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 27/100 |
+| stars | 40/100 |
+| topics | 100/100 |
+| outlook | 51/100 |
+| quality | 51/100 |
+| recency | 20/100 |
+| adoption | 36/100 |
+| production | 49/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 400/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/joshuaswarren/remnic) · [← Back to Orchestration](./README.md)</sub>

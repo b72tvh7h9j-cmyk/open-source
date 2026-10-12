@@ -1,0 +1,83 @@
+# Project-HAMi/HAMi
+
+[![Stars](https://img.shields.io/github/stars/Project-HAMi/HAMi?style=flat-square&color=yellow)](https://github.com/Project-HAMi/HAMi/stargazers) [![Forks](https://img.shields.io/github/forks/Project-HAMi/HAMi?style=flat-square&color=blue)](https://github.com/Project-HAMi/HAMi/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+
+> Heterogeneous GPU Sharing on Kubernetes
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 3.4k |
+| 🍴 **Forks** | 548 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`ascend` `cambricon` `cncf` `device-plugin` `gpu-acceleration` `gpu-management` `gpu-shareable` `gpu-virtualization` `hygon` `iluvatar` `kubernetes` `kubernetes-gpu-cluster`
+
+## 🎯 Categories
+
+DevOps/Infra
+
+## 📝 Summary
+
+### English
+
+Project‑HAMi (Heterogeneous GPU Sharing on Kubernetes) is an open‑source framework that enables efficient, fine‑grained sharing of GPU resources across diverse workloads in a Kubernetes cluster. By abstracting heterogeneous GPU hardware and providing a scheduler‑aware device plugin, it lets multiple pods concurrently utilize portions of a single GPU, boosting utilization and simplifying deployment for AI, ML, and graphics workloads. The project also includes tooling and documentation for DevOps teams to integrate, monitor, and manage shared GPU resources at scale.
+
+### Русский
+
+**Project‑HAMi/HAMi** — это open‑source решение, позволяющее эффективно распределять и управлять разнородными GPU‑ресурсами в кластерах Kubernetes, обеспечивая динамический планировщик, изоляцию задач и автоматическое масштабирование. Проект ориентирован на DevOps/Infra, упрощая инфраструктурные операции, а также предлагает гибкую архитектуру и инструменты маркетинга для продвижения GPU‑поддерживаемых приложений.
+
+### 中文
+
+Project-HAMi/HAMi：Project-HAMi/HAMi helps make deployment and operations more repeatable.。适合用于standardize deployment、automate operations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** Project-HAMi/HAMi helps make deployment and operations more repeatable.
+
+**Best use cases**
+
+- standardize deployment
+- automate operations
+- improve platform reliability
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 3407 GitHub stars
+- 548 forks
+- updated 2026-05-08
+- primary language: Go
+- 17 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 68/100 |
+| stars | 75/100 |
+| topics | 100/100 |
+| outlook | 54/100 |
+| quality | 68/100 |
+| recency | 20/100 |
+| adoption | 73/100 |
+| production | 57/100 |
+| usefulness | 42/100 |
+| integration | 78/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 100/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/Project-HAMi/HAMi) · [← Back to DevOps & Infra](./README.md)</sub>

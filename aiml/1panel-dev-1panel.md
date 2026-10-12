@@ -1,0 +1,83 @@
+# 1Panel-dev/1Panel
+
+[![Stars](https://img.shields.io/github/stars/1Panel-dev/1Panel?style=flat-square&color=yellow)](https://github.com/1Panel-dev/1Panel/stargazers) [![Forks](https://img.shields.io/github/forks/1Panel-dev/1Panel?style=flat-square&color=blue)](https://github.com/1Panel-dev/1Panel/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+
+> 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 35.3k |
+| 🍴 **Forks** | 3.1k |
+| 💻 **Language** | Go |
+| 📈 **Score** | 66/100 |
+| 🗓️ **Last push** | 2026-09-05 |
+| 🔍 **Source** | github |
+
+## 🏷️ Topics
+
+`agent` `clawdbot` `copaw` `docker` `docker-ui` `hermes` `hermes-agent` `linux` `lnmp` `ollama` `openclaw` `openresty`
+
+## 🎯 Categories
+
+AI/ML · Frontend · DevOps/Infra
+
+## 📝 Summary
+
+### English
+
+1Panel-dev/1Panel: 1Panel-dev/1Panel helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+1Panel-dev/1Panel: open-source проект в категориях AI/ML, Frontend, DevOps/Infra. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+1Panel-dev/1Panel：1Panel-dev/1Panel helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** 1Panel-dev/1Panel helps add AI capability without starting from a blank model stack.
+
+**Best use cases**
+
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 35309 GitHub stars
+- 3144 forks
+- updated 2026-05-07
+- primary language: Go
+- 14 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 87/100 |
+| stars | 97/100 |
+| topics | 100/100 |
+| outlook | 62/100 |
+| quality | 77/100 |
+| recency | 20/100 |
+| adoption | 94/100 |
+| production | 59/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
+| sourceTrust | 100/100 |
+| categoryMatchCount | 300/100 |
+
+---
+
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/1Panel-dev/1Panel) · [← Back to AI/ML](./README.md)</sub>

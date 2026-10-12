@@ -1,0 +1,82 @@
+# royalpinto007/bridgekit
+
+[![Stars](https://img.shields.io/github/stars/royalpinto007/bridgekit?style=flat-square&color=yellow)](https://github.com/royalpinto007/bridgekit/stargazers) [![Forks](https://img.shields.io/github/forks/royalpinto007/bridgekit?style=flat-square&color=blue)](https://github.com/royalpinto007/bridgekit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+
+> A scoped MCP server exposing company tools (Shopify, Triple Whale, Postgres) to an AI stack with per-client permission boundaries and an append-only audit log. Writes need an explicit scope. Zero runtime dependencies, hand-rolled MCP on Cloudflare Workers.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | — |
+| 🍴 **Forks** | 2 |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-09-05 |
+| 🔍 **Source** | story-link |
+
+## 🏷️ Topics
+
+`access-control` `ai-agents` `audit-log` `cloudflare-workers` `mcp` `model-context-protocol` `typescript`
+
+## 🎯 Categories
+
+MCP · AI/ML · Database
+
+## 📝 Summary
+
+### English
+
+royalpinto007/bridgekit: royalpinto007/bridgekit helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+royalpinto007/bridgekit: open-source проект в категориях MCP, AI/ML, Database. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+royalpinto007/bridgekit：royalpinto007/bridgekit helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** royalpinto007/bridgekit helps connect AI assistants to real tools and data through a standard protocol.
+
+**Best use cases**
+
+- connect AI agents to tools
+- ship Model Context Protocol servers
+- standardize integrations
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 2 forks
+- updated 2026-08-06
+- primary language: TypeScript
+- 7 topics
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 12/100 |
+| stars | 0/100 |
+| topics | 88/100 |
+| outlook | 51/100 |
+| quality | 35/100 |
+| recency | 40/100 |
+| adoption | 3/100 |
+| production | 47/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
+| sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
+
+---
+
+<sub>🔭 Discovered 2026-08-23 · [View on GitHub](https://github.com/royalpinto007/bridgekit) · [← Back to Mcp](./README.md)</sub>
